@@ -1,0 +1,1 @@
+from .data_generator import burgers_1d_fd
