@@ -1,4 +1,4 @@
-### Physics Informed Neural Network - 1D Burgers Equation
+### Physics Informed Neural Network - 1D Burgers Equation (WIP)
 
 In this repo we strive to demonstrate the capability of Physics Informed Neural Networks (PINNs) for the 1D Burgers equation. This equation represents fluid-like behavior and serves as a good benchmark for PINNs
 
